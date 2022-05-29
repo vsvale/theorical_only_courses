@@ -2,6 +2,7 @@
 
 | Course                                                                                       | Date       | Duration |
 |----------------------------------------------------------------------------------------------|------------|----------|
+| Dremio D101: Dremio Fundamentals                                                             | 2022-05-29 |          |
 | Data Science: The Big Picture                                                                | 2022-05-17 | 1:09     |
 | Data   Analytics: Dashboards vs. Data Stories                                                | 2021-11-22 | 0:17     |
 | Getting Started with Technology: Think   Like an Engineer                                    | 2021-11-22 | 0:20     |
