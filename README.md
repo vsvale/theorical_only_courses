@@ -2,6 +2,7 @@
 
 | Course                                                                                       | Date       | Duration |
 |----------------------------------------------------------------------------------------------|------------|----------|
+| Apache Kafka Fundamentals                                                                    | 2022-08-25 | 1:33     |
 | Dremio D101: Dremio Fundamentals                                                             | 2022-05-29 |          |
 | Data Science: The Big Picture                                                                | 2022-05-17 | 1:09     |
 | Data   Analytics: Dashboards vs. Data Stories                                                | 2021-11-22 | 0:17     |
