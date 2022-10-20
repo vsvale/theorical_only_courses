@@ -2,6 +2,7 @@
 
 | Course                                                                                       | Date       | Duration |
 |----------------------------------------------------------------------------------------------|------------|----------|
+| AWS Discovery Day - Cloud Practitioner Essentials                                            | 2022-09-24 | 4:00     |
 | Apache Kafka Fundamentals                                                                    | 2022-08-25 | 1:33     |
 | Dremio D101: Dremio Fundamentals                                                             | 2022-05-29 |          |
 | Data Science: The Big Picture                                                                | 2022-05-17 | 1:09     |
